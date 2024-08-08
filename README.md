@@ -22,7 +22,7 @@ Here are some of my skills,
     <ul>
       <li>Python</li>
       <li>Java</li>
-      <li>C++</li>
+<!--       <li>C++</li> -->
       <li>JavaScript</li>
     </ul>
   </div>
@@ -38,7 +38,7 @@ Here are some of my skills,
   </div>
 
   <div style="flex: 1 1 200px; border: 1px solid #ccc; padding: 10px; border-radius: 5px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
-    <h3>Tools and Platforms</h3>
+<!--     <h3>Tools and Platforms</h3>
     <ul>
       <li>Docker</li>
       <li>Kubernetes</li>
@@ -47,7 +47,7 @@ Here are some of my skills,
     </ul>
   </div>
 
-</div>
+</div> -->
 
 Feel free to explore my repositories and reach out if you have any questions!
 
