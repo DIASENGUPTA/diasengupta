@@ -14,30 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Here are some of my skills,
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-  <div style="flex: 1 1 200px; border: 1px solid #ccc; padding: 10px; border-radius: 5px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
-    <h3>Programming Languages</h3>
-    <ul>
-      <li>Python</li>
-      <li>Java</li>
-<!--       <li>C++</li> -->
-      <li>JavaScript</li>
-    </ul>
-  </div>
-
-  <div style="flex: 1 1 200px; border: 1px solid #ccc; padding: 10px; border-radius: 5px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
-    <h3>Frameworks and Libraries</h3>
-    <ul>
-      <li>TensorFlow</li>
-      <li>PyTorch</li>
-      <li>Scikit-learn</li>
-      <li>React</li>
-    </ul>
-  </div>
-
-  <div style="flex: 1 1 200px; border: 1px solid #ccc; padding: 10px; border-radius: 5px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
+ <!-- <div style="flex: 1 1 200px; border: 1px solid #ccc; padding: 10px; border-radius: 5px; box-shadow: 2px 2px 12px rgba(0,0,0,0.1);">
 <!--     <h3>Tools and Platforms</h3>
     <ul>
       <li>Docker</li>
