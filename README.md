@@ -20,4 +20,4 @@ Feel free to explore my repositories and reach out if you have any questions!
 
 ### 📫 How to reach me
 - Email: [senguptadia25@gmail.com](mailto:senguptadia25@gmail.com)
-- LinkedIn: [Linkedin](https://linkedin.com/in/kathakolisengupta)
+- LinkedIn: [https://linkedin.com/in/kathakolisengupta](https://linkedin.com/in/kathakolisengupta)
