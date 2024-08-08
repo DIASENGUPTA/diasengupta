@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Kathakoli. I am a Computer Vision Scientist at Wicket LLC. I have profound interest in the domains of Vision and Perception, Robotics , Autonomous Vehicles having internship and research experience in Autonomous Driving, Robot Learning, Machine Learning, Deep Learning, Data Science and AI in Biomedical fields.
 <!--
 **DIASENGUPTA/diasengupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
