@@ -32,5 +32,5 @@ Feel free to explore my repositories and reach out if you have any questions!
 ---
 
 ### 📫 How to reach me
-- Email: [ksg25@bu.edu](mailto:ksengupta@cs.stonybrook.edu)
+- Email: [ksengupta@cs.stonybrook.edu](mailto:ksengupta@cs.stonybrook.edu)
 - LinkedIn: [https://linkedin.com/in/kathakolisengupta](https://linkedin.com/in/kathakolisengupta)
