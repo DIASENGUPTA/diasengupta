@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Kathakoli. I am an incoming PhD CS student at Stony Brook University. I was a Computer Vision Scientist at Wicket LLC. I have profound interest in the domains of Vision and Perception, Robotics , Autonomous Vehicles having internship and research experience in Autonomous Driving, Robot Learning, Machine Learning, Deep Learning, Data Science and AI in Biomedical fields.
+I am Kathakoli. I am a PhD CS student at Stony Brook University. Before joining SBU, I was a Computer Vision Scientist at Wicket LLC and I completed Masters in Artificial Intelligence from Boston University. I have profound interest in the domains of Vision and Perception, Robotics , Autonomous Vehicles having internship and research experience in Autonomous Driving, Robot Learning, Machine Learning, Deep Learning, Data Science and AI in Biomedical fields.
 <!--
 **DIASENGUPTA/diasengupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,5 +32,5 @@ Feel free to explore my repositories and reach out if you have any questions!
 ---
 
 ### 📫 How to reach me
-- Email: [ksg25@bu.edu](mailto:ksg25@bu.edu)
+- Email: [ksg25@bu.edu](mailto:ksengupta@cs.stonybrook.edu)
 - LinkedIn: [https://linkedin.com/in/kathakolisengupta](https://linkedin.com/in/kathakolisengupta)
